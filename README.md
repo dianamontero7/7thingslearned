@@ -7,4 +7,5 @@
 6.  Git Clone
 7.  Git Push
 
+<a href="learnedterms.html"><ins>Click here to view my interpretations</ins></a>
 
